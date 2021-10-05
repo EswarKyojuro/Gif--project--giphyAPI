@@ -1,0 +1,38 @@
+.mainDiv{
+    box-sizing: border-box;
+    width:100%;
+    margin:100px 10px 20px 500px;
+    /* display:flex;
+    justify-content: center; */
+    /* text-align: center; */
+
+   line-height: 10px; 
+}
+#searchBox{
+    width:250px;
+    height:35px;
+    padding:7px;
+    border:1px solid royalblue;
+    border-radius:3px;
+    outline:none;
+}
+form button{
+    height:35px;
+    padding:7px;
+
+}
+.imageDiv{
+    width:330px;
+    height:190px;
+    margin-bottom: 20px;
+}
+
+#targetDiv{
+    padding:10px;
+    margin :100px 30px 10px 200px;
+}
+h2{
+    font-weight: bolder;
+    margin-top:60px;
+    margin-left:140px;
+}
